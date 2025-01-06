@@ -1,0 +1,1 @@
+ClrHome:Output(3,2,"Max time is 999 minutes       and 59 seconds"):Input "Minutes: ",M:Output(3,2,"Max time is 999 minutes       and 59 seconds"):Input "Seconds: ",S:ClrHome:Output(1,1,"Min   Sec"):Output(2,1,M):Output(2,7,S):Output(2,5,":")
